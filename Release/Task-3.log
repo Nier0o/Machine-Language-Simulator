@@ -1,0 +1,40 @@
+﻿  GUI.cpp
+  Machine.cpp
+  Task-3.cpp
+Task-3.obj : error LNK2001: unresolved external symbol __imp__UpdateWindow@4
+Task-3.obj : error LNK2001: unresolved external symbol "bool __cdecl ImGui_ImplDX10_Init(struct ID3D10Device *)" (?ImGui_ImplDX10_Init@@YA_NPAUID3D10Device@@@Z)
+Task-3.obj : error LNK2001: unresolved external symbol __imp__PostQuitMessage@4
+Task-3.obj : error LNK2001: unresolved external symbol "void __cdecl ImGui_ImplDX10_Shutdown(void)" (?ImGui_ImplDX10_Shutdown@@YAXXZ)
+Task-3.obj : error LNK2001: unresolved external symbol "void __cdecl ImGui_ImplDX10_NewFrame(void)" (?ImGui_ImplDX10_NewFrame@@YAXXZ)
+Task-3.obj : error LNK2001: unresolved external symbol "void __cdecl ImGui_ImplWin32_Shutdown(void)" (?ImGui_ImplWin32_Shutdown@@YAXXZ)
+Task-3.obj : error LNK2001: unresolved external symbol "void __cdecl ImGui_ImplDX10_RenderDrawData(struct ImDrawData *)" (?ImGui_ImplDX10_RenderDrawData@@YAXPAUImDrawData@@@Z)
+Task-3.obj : error LNK2001: unresolved external symbol __imp__TranslateMessage@4
+Task-3.obj : error LNK2001: unresolved external symbol __imp__PeekMessageW@20
+Task-3.obj : error LNK2001: unresolved external symbol __imp__DispatchMessageW@4
+Task-3.obj : error LNK2001: unresolved external symbol __imp__ShowWindow@8
+Task-3.obj : error LNK2001: unresolved external symbol __imp__RegisterClassExW@4
+Task-3.obj : error LNK2001: unresolved external symbol __imp__UnregisterClassW@8
+Task-3.obj : error LNK2001: unresolved external symbol "bool __cdecl ImGui_ImplWin32_Init(void *)" (?ImGui_ImplWin32_Init@@YA_NPAX@Z)
+Task-3.obj : error LNK2001: unresolved external symbol __imp__CreateWindowExW@48
+Task-3.obj : error LNK2001: unresolved external symbol "long __cdecl ImGui_ImplWin32_WndProcHandler(struct HWND__ *,unsigned int,unsigned int,long)" (?ImGui_ImplWin32_WndProcHandler@@YAJPAUHWND__@@IIJ@Z)
+Task-3.obj : error LNK2001: unresolved external symbol __imp__DestroyWindow@4
+Task-3.obj : error LNK2001: unresolved external symbol "bool __cdecl ImGui::ColorEdit3(char const *,float * const,int)" (?ColorEdit3@ImGui@@YA_NPBDQAMH@Z)
+Task-3.obj : error LNK2001: unresolved external symbol "void __cdecl ImGui::End(void)" (?End@ImGui@@YAXXZ)
+Task-3.obj : error LNK2001: unresolved external symbol "struct ImGuiIO & __cdecl ImGui::GetIO(void)" (?GetIO@ImGui@@YAAAUImGuiIO@@XZ)
+Task-3.obj : error LNK2001: unresolved external symbol "bool __cdecl ImGui::Checkbox(char const *,bool *)" (?Checkbox@ImGui@@YA_NPBDPA_N@Z)
+Task-3.obj : error LNK2001: unresolved external symbol "bool __cdecl ImGui::SliderFloat(char const *,float *,float,float,char const *,int)" (?SliderFloat@ImGui@@YA_NPBDPAMMM0H@Z)
+Task-3.obj : error LNK2001: unresolved external symbol "bool __cdecl ImGui::DebugCheckVersionAndDataLayout(char const *,unsigned int,unsigned int,unsigned int,unsigned int,unsigned int,unsigned int)" (?DebugCheckVersionAndDataLayout@ImGui@@YA_NPBDIIIIII@Z)
+Task-3.obj : error LNK2001: unresolved external symbol "void __cdecl ImGui::StyleColorsDark(struct ImGuiStyle *)" (?StyleColorsDark@ImGui@@YAXPAUImGuiStyle@@@Z)
+Task-3.obj : error LNK2001: unresolved external symbol "struct ImDrawData * __cdecl ImGui::GetDrawData(void)" (?GetDrawData@ImGui@@YAPAUImDrawData@@XZ)
+Task-3.obj : error LNK2001: unresolved external symbol "bool __cdecl ImGui::Button(char const *,struct ImVec2 const &)" (?Button@ImGui@@YA_NPBDABUImVec2@@@Z)
+Task-3.obj : error LNK2001: unresolved external symbol "void __cdecl ImGui::SameLine(float,float)" (?SameLine@ImGui@@YAXMM@Z)
+Task-3.obj : error LNK2001: unresolved external symbol "struct ImGuiContext * __cdecl ImGui::CreateContext(struct ImFontAtlas *)" (?CreateContext@ImGui@@YAPAUImGuiContext@@PAUImFontAtlas@@@Z)
+Task-3.obj : error LNK2001: unresolved external symbol "void __cdecl ImGui::ShowDemoWindow(bool *)" (?ShowDemoWindow@ImGui@@YAXPA_N@Z)
+Task-3.obj : error LNK2001: unresolved external symbol "void __cdecl ImGui::NewFrame(void)" (?NewFrame@ImGui@@YAXXZ)
+Task-3.obj : error LNK2001: unresolved external symbol "void __cdecl ImGui::Render(void)" (?Render@ImGui@@YAXXZ)
+Task-3.obj : error LNK2001: unresolved external symbol "bool __cdecl ImGui::Begin(char const *,bool *,int)" (?Begin@ImGui@@YA_NPBDPA_NH@Z)
+Task-3.obj : error LNK2001: unresolved external symbol "void __cdecl ImGui::DestroyContext(struct ImGuiContext *)" (?DestroyContext@ImGui@@YAXPAUImGuiContext@@@Z)
+Task-3.obj : error LNK2001: unresolved external symbol "void __cdecl ImGui::Text(char const *,...)" (?Text@ImGui@@YAXPBDZZ)
+Task-3.obj : error LNK2001: unresolved external symbol __imp__DefWindowProcW@16
+Task-3.obj : error LNK2001: unresolved external symbol "void __cdecl ImGui_ImplWin32_NewFrame(void)" (?ImGui_ImplWin32_NewFrame@@YAXXZ)
+C:\Users\ahmed\Desktop\A2_Task-2\Task-3\Task-3\Release\Task-3.exe : fatal error LNK1120: 36 unresolved externals

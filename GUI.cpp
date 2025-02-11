@@ -122,6 +122,8 @@ void GUI::show()
 
         
     }ImGui::End();
+
+
     ImGui::SetNextWindowSize(ImVec2(300, 100), ImGuiCond_FirstUseEver);
     if (ImGui::Begin("Commands")) {
         bool loadMainMemory = false;

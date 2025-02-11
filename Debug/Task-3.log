@@ -1,0 +1,9 @@
+﻿  GUI.cpp
+C:\Users\ahmed\Desktop\A2_Task-2\Task-3\Task-3\GUI.cpp(116,16): warning C4551: function call missing argument list
+C:\Users\ahmed\Desktop\A2_Task-2\Task-3\Task-3\GUI.cpp(155,16): warning C4551: function call missing argument list
+C:\Users\ahmed\Desktop\A2_Task-2\Task-3\Task-3\GUI.cpp(156,16): warning C4551: function call missing argument list
+C:\Users\ahmed\Desktop\A2_Task-2\Task-3\Task-3\GUI.cpp(174,16): warning C4551: function call missing argument list
+C:\Users\ahmed\Desktop\A2_Task-2\Task-3\Task-3\GUI.cpp(175,16): warning C4551: function call missing argument list
+  VOLEMachineGUI.cpp
+  Generating Code...
+  Task-3.vcxproj -> C:\Users\ahmed\Desktop\A2_Task-2\Task-3\Task-3\Debug\Task-3.exe
